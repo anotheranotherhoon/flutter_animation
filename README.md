@@ -25,3 +25,11 @@
   <img src="./images/example5.gif">
   <br>
 </p>
+
+### example 6
+
+<p align="center">
+  <br>
+  <img src="./images/example6.gif">
+  <br>
+</p>
