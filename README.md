@@ -1,16 +1,27 @@
 # flutter_animation
 
-A new Flutter project.
+## 구현
 
-## Getting Started
+### example 1
 
-This project is a starting point for a Flutter application.
+<p align="center">
+  <br>
+  <img src="./images/example1.gif">
+  <br>
+</p>
 
-A few resources to get you started if this is your first Flutter project:
+### example 2
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+<p align="center">
+  <br>
+  <img src="./images/example2.gif">
+  <br>
+</p>
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### example 5
+
+<p align="center">
+  <br>
+  <img src="./images/example5.gif">
+  <br>
+</p>
